@@ -21,7 +21,7 @@
 
 ### 🚀 Sobre mí
 
-Desarrollador de aplicaciones web con experiencia en proyectos propios y soluciones digitales para pequeños negocios. He creado sistemas de reservas, paneles de administración, landing pages y herramientas de gestión operativa.
+Desarrollador de aplicaciones multiplataforma con experiencia en proyectos propios y soluciones digitales para pequeños negocios. He creado sistemas de reservas, paneles de administración, landing pages y herramientas de gestión operativa.
 
 💡 Me apasiona transformar ideas en soluciones funcionales y seguir aprendiendo cada día.
 
