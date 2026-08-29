@@ -1,81 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Javier%20Bautista&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+¡Hola! Soy Javier Bautista 👋
+
+Desarrollador de Aplicaciones | Ciberseguridad | Soluciones digitales para negocios
+
+
+
+
+
 </div>
 
-<h1 align="center">👋 Hola, soy Javier Bautista</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma</h3>
+👨‍💻 Sobre mí
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/javier-bautista-escamez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:javierbautistadev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/javierbautistadev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente continúo mi formación con el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información.
 
----
+Me gusta transformar las necesidades de cada cliente en soluciones digitales útiles, claras y adaptadas a su forma de trabajar. He desarrollado proyectos reales para empresas y profesionales de distintos sectores, desde sistemas internos de gestión hasta páginas web y plataformas de reservas.
 
-### 🚀 Sobre mí
+📍 Algeciras, Cádiz, España
 
-Desarrollador de aplicaciones multiplataforma con experiencia en proyectos propios y soluciones digitales para pequeños negocios. He creado sistemas de reservas, paneles de administración, landing pages y herramientas de gestión operativa.
+🔐 Ampliando conocimientos en ciberseguridad, sistemas y redes
 
-💡 Me apasiona transformar ideas en soluciones funcionales y seguir aprendiendo cada día.
+🚀 Experiencia creando y desplegando proyectos para negocios reales
 
----
+🧩 Capacidad para adaptarme a distintos clientes, sectores y necesidades
 
-### 🛠️ Tecnologías
+📚 Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos
 
-**Lenguajes**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+🛠️ Tecnologías y herramientas
 
-**Frameworks y Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+Desarrollo
 
-**Bases de Datos**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
 
----
 
-### 📊 Estadísticas
+
+
+
+
+
+
+
+
+
+Bases de datos, sistemas y despliegue
+
+
+
+
+
+
+
+
+
+
+
+🚀 Proyectos destacados
+
+MesControl
+
+Aplicación web desarrollada para una empresa del sector portuario. Centraliza la gestión diaria, sustituye procesos basados en hojas de cálculo y permite trabajar con usuarios, roles, registros, estados y consultas en tiempo real.
+
+Laravel · PostgreSQL · Docker · JavaScript
+
+Sistema de previsión de embarques
+
+Herramienta interna para organizar operativas y previsiones de embarque mediante una interfaz web adaptada al flujo de trabajo de oficina y almacén.
+
+Laravel · MariaDB · Docker · Control de acceso por roles
+
+Plataforma de reservas para barbería
+
+Sistema de gestión de citas con panel de administración, disponibilidad de horarios y funciones para clientes.
+
+JavaScript · Supabase · Despliegue web
+
+Sitios web para negocios
+
+Diseño y desarrollo de webs corporativas y landing pages para profesionales de sectores como logística y tatuaje, adaptadas a móvil y enfocadas en presentar sus servicios de forma clara.
+
+WordPress · Astro · HTML · CSS · JavaScript
+
+🎯 En qué estoy trabajando
+
+Profundizando en ciberseguridad, redes y administración de sistemas.
+
+Mejorando mis conocimientos de Java y Spring Boot.
+
+Creando aplicaciones con utilidad real para empresas y pequeños negocios.
+
+Aprendiendo más sobre despliegue, servidores, Docker y buenas prácticas de seguridad.
+
+📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=gradient&hide_border=true&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=gradient&hide_border=true&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff" />
+
+
+
+
+
 </div>
 
----
+📫 Contacto
 
-### 📌 Proyectos Destacados
+Si tienes una idea, un proyecto o crees que podemos trabajar juntos, puedes escribirme a javierbautistadev@gmail.com.
 
-| Proyecto | Descripción |
-|----------|-------------|
-| 🏪 **App de Reservas para Barbería** | Gestión de citas y panel de administración |
-| 📊 **Sistema de Gestión Operativa** | Digitalización de procesos y control diario |
-| 🌐 **Landing Page para Negocio Local** | Web corporativa para servicios y contacto |
+<div align="center">
 
----
+Gracias por visitar mi perfil 🙌
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-</p>
+</div>
