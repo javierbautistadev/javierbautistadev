@@ -1,12 +1,12 @@
 <div align="center">
 
-¡Hola! Soy Javier Bautista 👋
-
-Desarrollador de Aplicaciones | Ciberseguridad | Soluciones digitales para negocios
 
 
 
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Creo+soluciones+digitales+para+negocios+reales;DAM+%7C+Ciberseguridad+%7C+Desarrollo+web;Laravel+%7C+Java+%7C+Docker+%7C+PostgreSQL" alt="Presentación animada de Javier Bautista" />
 
 </div>
 
@@ -14,97 +14,114 @@ Desarrollador de Aplicaciones | Ciberseguridad | Soluciones digitales para negoc
 
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente continúo mi formación con el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información.
 
-Me gusta transformar las necesidades de cada cliente en soluciones digitales útiles, claras y adaptadas a su forma de trabajar. He desarrollado proyectos reales para empresas y profesionales de distintos sectores, desde sistemas internos de gestión hasta páginas web y plataformas de reservas.
+Me gusta convertir las necesidades de cada cliente en soluciones digitales útiles, claras y adaptadas a su forma de trabajar. He desarrollado proyectos para empresas y profesionales de distintos sectores, desde sistemas internos de gestión hasta páginas web y plataformas de reservas.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧩 Desarrollo</h3>
+      <p>Aplicaciones adaptadas a procesos y necesidades reales.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛡️ Seguridad</h3>
+      <p>Formándome en sistemas, redes y ciberseguridad.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Despliegue</h3>
+      <p>Docker, servidores y publicación de proyectos web.</p>
+    </td>
+  </tr>
+</table>
 
 📍 Algeciras, Cádiz, España
-
-🔐 Ampliando conocimientos en ciberseguridad, sistemas y redes
-
-🚀 Experiencia creando y desplegando proyectos para negocios reales
-
-🧩 Capacidad para adaptarme a distintos clientes, sectores y necesidades
-
-📚 Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos
+🎓 Técnico Superior en DAM
+🔐 Especialización en Ciberseguridad
+💼 Experiencia con proyectos para negocios reales
 
 🛠️ Tecnologías y herramientas
 
+<div align="center">
+
 Desarrollo
 
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,react,astro,wordpress&perline=10" alt="Tecnologías de desarrollo" />
 
+Datos, sistemas y despliegue
 
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,cloudflare,vscode&perline=9" alt="Bases de datos, sistemas y herramientas" />
 
-
-
-
-
-
-
-
-
-Bases de datos, sistemas y despliegue
-
-
-
-
-
-
-
-
-
-
+</div>
 
 🚀 Proyectos destacados
 
-MesControl
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚓ MesControl</h3>
+      <p>Aplicación web para una empresa del sector portuario. Centraliza la gestión diaria y sustituye procesos basados en hojas de cálculo.</p>
+      <p><code>Laravel</code> <code>PostgreSQL</code> <code>Docker</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 Previsión de embarques</h3>
+      <p>Herramienta interna para organizar operativas mediante una interfaz adaptada al trabajo de oficina y almacén.</p>
+      <p><code>Laravel</code> <code>MariaDB</code> <code>Docker</code> <code>Roles</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✂️ Reservas para barbería</h3>
+      <p>Plataforma de citas con disponibilidad de horarios, funciones para clientes y panel de administración.</p>
+      <p><code>JavaScript</code> <code>Supabase</code> <code>Despliegue web</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Webs para negocios</h3>
+      <p>Webs corporativas y landing pages para profesionales de los sectores de logística y tatuaje, adaptadas a móviles.</p>
+      <p><code>WordPress</code> <code>Astro</code> <code>HTML</code> <code>CSS</code></p>
+    </td>
+  </tr>
+</table>
 
-Aplicación web desarrollada para una empresa del sector portuario. Centraliza la gestión diaria, sustituye procesos basados en hojas de cálculo y permite trabajar con usuarios, roles, registros, estados y consultas en tiempo real.
+🎯 Actualmente
 
-Laravel · PostgreSQL · Docker · JavaScript
+🔐 Profundizando en ciberseguridad, redes y administración de sistemas.
 
-Sistema de previsión de embarques
+☕ Mejorando mis conocimientos de Java y Spring Boot.
 
-Herramienta interna para organizar operativas y previsiones de embarque mediante una interfaz web adaptada al flujo de trabajo de oficina y almacén.
+🏢 Creando aplicaciones con utilidad real para empresas y pequeños negocios.
 
-Laravel · MariaDB · Docker · Control de acceso por roles
+🐳 Aprendiendo más sobre servidores, Docker, despliegue y buenas prácticas de seguridad.
 
-Plataforma de reservas para barbería
-
-Sistema de gestión de citas con panel de administración, disponibilidad de horarios y funciones para clientes.
-
-JavaScript · Supabase · Despliegue web
-
-Sitios web para negocios
-
-Diseño y desarrollo de webs corporativas y landing pages para profesionales de sectores como logística y tatuaje, adaptadas a móvil y enfocadas en presentar sus servicios de forma clara.
-
-WordPress · Astro · HTML · CSS · JavaScript
-
-🎯 En qué estoy trabajando
-
-Profundizando en ciberseguridad, redes y administración de sistemas.
-
-Mejorando mis conocimientos de Java y Spring Boot.
-
-Creando aplicaciones con utilidad real para empresas y pequeños negocios.
-
-Aprendiendo más sobre despliegue, servidores, Docker y buenas prácticas de seguridad.
-
-📊 Estadísticas de GitHub
+📊 Mi actividad en GitHub
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=default&hide_border=true&locale=es&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas de GitHub de Javier" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=default&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Javier" />
+</picture>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=javierbautistadev&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de Javier" />
+
+</div>
+
+🤝 ¿Hablamos?
+
+<div align="center">
+
+Estoy abierto a nuevas oportunidades, colaboraciones y proyectos interesantes.
+
+javierbautistadev@gmail.com
 
 
 
 </div>
 
-📫 Contacto
-
-Si tienes una idea, un proyecto o crees que podemos trabajar juntos, puedes escribirme a javierbautistadev@gmail.com.
-
-<div align="center">
-
-Gracias por visitar mi perfil 🙌
-
-</div>
