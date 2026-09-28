@@ -38,19 +38,6 @@ Me gusta convertir las necesidades de cada cliente en soluciones digitales útil
 🔐 Especialización en Ciberseguridad
 💼 Experiencia con proyectos para negocios reales
 
-🛠️ Tecnologías y herramientas
-
-<div align="center">
-
-Desarrollo
-
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,react,astro,wordpress&perline=10" alt="Tecnologías de desarrollo" />
-
-Datos, sistemas y despliegue
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,cloudflare,vscode&perline=9" alt="Bases de datos, sistemas y herramientas" />
-
-</div>
 
 🚀 Proyectos destacados
 
@@ -85,7 +72,6 @@ Datos, sistemas y despliegue
 
 🔐 Profundizando en ciberseguridad, redes y administración de sistemas.
 
-☕ Mejorando mis conocimientos de Java y Spring Boot.
 
 🏢 Creando aplicaciones con utilidad real para empresas y pequeños negocios.
 
