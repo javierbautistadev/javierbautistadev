@@ -77,27 +77,7 @@ Me gusta convertir las necesidades de cada cliente en soluciones digitales útil
 
 🐳 Aprendiendo más sobre servidores, Docker, despliegue y buenas prácticas de seguridad.
 
-📊 Mi actividad en GitHub
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=default&hide_border=true&locale=es&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javierbautistadev&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=github" alt="Estadísticas de GitHub de Javier" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=default&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbautistadev&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Javier" />
-</picture>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=javierbautistadev&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de Javier" />
-
-</div>
 
 🤝 ¿Hablamos?
 
