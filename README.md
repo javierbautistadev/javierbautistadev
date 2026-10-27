@@ -1,10 +1,9 @@
-<h1 align="center">¡Hola! Soy Javi Bautista 👋</h1>
+<h1 align="center">¡Hola! Soy Javier Bautista 👋</h1>
 <h3 align="center">🛡️ Ciberseguridad · Pentesting · Bastionado de sistemas</h3>
 
 <p align="center">
   <a href="https://javierbautistadev.es"><img src="https://img.shields.io/badge/Web-javierbautistadev.es-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
   <img src="https://img.shields.io/badge/📍-Algeciras,%20Cádiz-0d1117?style=flat-square" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Máster%20FP-Ciberseguridad%20(en%20curso)-0d1117?style=flat-square&logo=hackthebox&logoColor=9fef00" alt="Máster en Ciberseguridad" />
 </p>
 
 ---
